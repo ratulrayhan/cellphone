@@ -16,7 +16,5 @@ public class CellphoneSimulator {
 			System.out.println();
 			System.out.println("Program Execution is Completed");
 		}
-
 	}
-
 }

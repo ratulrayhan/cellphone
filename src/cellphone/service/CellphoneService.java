@@ -5,5 +5,4 @@ public interface CellphoneService {
 	boolean hasTouchScreen();
 
 	String typeOfOs();
-
 }

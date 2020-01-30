@@ -23,5 +23,4 @@ public enum CellphoneType {
 	public String getValue() {
 		return value;
 	}
-
 }
